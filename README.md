@@ -8,3 +8,5 @@ A W S D ou ⬅ ⬆ ⬇ ⮕
 J U K L e Shift (esquerdo)
 
 (Funciona com gamepad tambem)
+
+Link: https://ramouraaa.github.io/Dragon-Universal/
